@@ -1,0 +1,15 @@
+
+#btn{
+  display: none !important;
+}
+@media screen and (max-width:780px) {
+    #b {
+      display: none !important; 
+
+    }
+    #btn{
+      display: block !important; 
+      transition: 1s;
+    }
+
+}
